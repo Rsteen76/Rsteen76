@@ -1,27 +1,51 @@
-# Hey, I'm Ryan 👋
+# Ryan Steen
 
-**Technologist. Mortgage industry veteran. AI builder.**
+I’m a founder, consultant, and problem solver.
 
-I've spent 40+ years in tech and 12+ in mortgage origination as VP & co-owner of a producing brokerage. Two years ago I started building AI systems to run my own business — and haven't stopped.
+I work with businesses to understand how they operate, where friction is slowing them down, and what systems will actually help them move faster, work smarter, and make better decisions.
 
-### What I build
+My background is a mix of business operations, technology, and execution. I’ve spent 40+ years in tech and 12+ years in mortgage origination as VP and co-owner of a producing brokerage. That lets me see both the business problem and the implementation path.
 
-I design and ship production AI systems for regulated industries. Not proofs of concept — tools that real people use every day:
+## What I do
 
-- **Mortgage AI Platform** — Email intelligence, loan pipeline automation, and per-user AI copilots for 3 loan officers in production
-- **Cedar Oregon** — AI voice agent for real estate (live phone number, cross-session memory, CRM integration)  
-- **Multi-agent orchestration** — Shared memory, cron automation, cross-agent coordination running 24/7
+I focus on:
+- workflow improvement
+- operational problem solving
+- AI implementation
+- automation design
+- internal tools
+- systems that help teams operate with more leverage
 
-I architect the systems. AI writes most of the code. I make the decisions about what to build and why.
+## How I work
 
-### The thread
+I start with the workflow.
 
-`mtgcalc` (2018) → `builderbrain` (2025) → mortgage AI platform (2026)
+What is creating drag?
+Where are handoffs weak?
+What is repetitive, noisy, or dependent on one person?
+Where can better systems create efficiency without adding complexity?
 
-Same pattern: see a business problem, build the tool. The tools got smarter.
+Then I design and build the fix.
 
-### What I'm looking for
+Sometimes that means AI.
+Sometimes it means better visibility, cleaner data, tighter tooling, or smarter automation.
+The point is not to force AI into the business.
+The point is to improve how the business runs.
 
-Roles where deep domain knowledge meets AI implementation — especially in mortgage, fintech, or any regulated industry where understanding the workflow matters as much as the tech stack.
+## What I build
+
+- **Mortgage AI Platform** for pipeline visibility, email intelligence, workflow automation, and internal copilots
+- **Cedar Oregon** for AI voice, lead intake, memory, and CRM-connected follow-up
+- **Internal agent and automation systems** for orchestration, monitoring, and business operations
+
+## What matters to me
+
+- clear thinking
+- useful software
+- speed
+- accuracy
+- cleaner workflows
+- practical automation
+- systems that earn their place
 
 📄 [Resume](https://ryansteen-ai.web.app/ryan-steen-resume.pdf) · 🌐 [Portfolio](https://ryansteen-ai.web.app) · 📞 Try Cedar: (971) 370-2997
