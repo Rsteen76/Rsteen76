@@ -1,51 +1,12 @@
 # Ryan Steen
 
-I’m a founder, consultant, and problem solver.
+I talk to people, find their pain points, and build the solution.
 
-I work with businesses to understand how they operate, where friction is slowing them down, and what systems will actually help them move faster, work smarter, and make better decisions.
+I own a general contracting company and I'm a partner in a mortgage brokerage, and I built software both of them use for daily operations.
 
-My background is a mix of business operations, technology, and execution. I’ve spent 40+ years in tech and 12+ years in mortgage origination as VP and co-owner of a producing brokerage. That lets me see both the business problem and the implementation path.
+- **LOA**: the AI operations assistant a mortgage brokerage runs on. In production. Private.
+- **Stonetree**: the job system my construction company runs on, with an AI estimator behind a guarded tool layer. Private.
+- **[BuilderBrain](https://github.com/Rsteen76/builderbrain)**: construction project management. Public, with a [live app](https://constructionbrain-9ff10.web.app).
+- **Cedar**: a voice agent demo.
 
-## What I do
-
-I focus on:
-- workflow improvement
-- operational problem solving
-- AI implementation
-- automation design
-- internal tools
-- systems that help teams operate with more leverage
-
-## How I work
-
-I start with the workflow.
-
-What is creating drag?
-Where are handoffs weak?
-What is repetitive, noisy, or dependent on one person?
-Where can better systems create efficiency without adding complexity?
-
-Then I design and build the fix.
-
-Sometimes that means AI.
-Sometimes it means better visibility, cleaner data, tighter tooling, or smarter automation.
-The point is not to force AI into the business.
-The point is to improve how the business runs.
-
-## What I build
-
-- **Mortgage AI Platform** for pipeline visibility, email intelligence, workflow automation, and internal copilots
-- **Cedar Oregon** for AI voice, lead intake, memory, and CRM-connected follow-up
-- **Internal agent and automation systems** for orchestration, monitoring, and business operations
-
-## What matters to me
-
-- clear thinking
-- useful software
-- speed
-- accuracy
-- cleaner workflows
-- practical automation
-- systems that earn their place
-
-📄 [Resume](https://ryansteen-ai.web.app/ryan-steen-resume.pdf) · 🌐 [Portfolio](https://ryansteen-ai.web.app) · 📞 Try Cedar: (971) 370-2997
+ryansteen76@gmail.com
